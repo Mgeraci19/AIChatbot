@@ -1,2 +1,2 @@
 # AIChatbot
-This is a personal project of and AI chatbot
+Simple AI chatbot built on top of a pipeline from the transformers library.
